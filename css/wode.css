@@ -1,0 +1,155 @@
+body{
+	background-color: #f5f5f5;
+}
+#position{
+	height: 2.51rem;
+}
+.position_top h1{
+    padding-left: .25rem;
+    line-height: .88rem;
+    font-size: .25rem;
+    color: #fff;
+}
+.position_bottom{
+	height: 1.63rem;
+
+}
+.position_left{
+	float: left;
+}
+.position_left1{
+	width: 1.06rem;
+	height: 1.06rem;
+	border-radius: 50%;
+	background-image: url('../img/wo.png');
+	background-size: cover;
+}
+.position_right{
+	float: right;
+}
+.position_left1,.position_left2{
+	float: left;
+}
+.position_left2{
+	margin-left: .25rem;
+}
+#content{
+	top: 2.51rem;
+}
+.position_left2 h3{
+	font-size: .24rem;
+	line-height: .24rem;
+	color: #fff;
+	font-weight: bold;
+	margin-top: .3rem;
+}
+.position_left2 em{
+	font-size: .16rem;
+	line-height: .16rem;
+	font-weight: 400;
+}
+.position_right p{
+	font-size: 26px;
+	font-weight: 700;
+}
+.qianbao{
+	width: 100%;
+	height: 1.22rem;
+	border: .01rem solid #dedede;
+	background-color: #fff;
+}
+.qianbao li{
+	width: 33.333%;
+	height: 1.22rem;
+	float: left;
+}
+li{
+	padding: .3rem 0;
+    text-align: center; 
+}
+.qianbao p{
+	font-size: .26rem;
+	line-height: .26rem;
+	color: #2496ff;
+}
+.qianbao i{
+	font-size: .14rem;
+	line-height: .14rem;
+}
+.qianbao h1{
+	font-size: .18rem;
+	line-height: .18rem;
+	color: #686868;
+	margin-top: .05rem;
+}
+.qianbao1{
+	border-left: .01rem solid #dedede;
+	border-right: .01rem solid #dedede;
+}
+.tupian{
+	width: 100%;
+	height: 1.46rem;
+	color: #f5f5f5;
+}
+.tupian img{
+	width: 100%;
+	height: 1.21rem;
+	margin-top: .2rem;
+}
+.shouhuo{
+	width: 100%;
+	height: 1.74rem;
+	border-top: .01rem solid #dedede;
+	border-bottom: .01rem solid #dedede;
+	padding:0 .24rem;
+	color: #343434;
+	background-color: #fff;
+	margin-bottom: .12rem;
+}
+.shouhuo1{
+	width: 100%;
+	height: 50%;
+	display: flex; 
+	align-items: center;
+}
+.shouhuo2{
+	border-bottom: .01rem solid #dedede;
+}
+.shouhuo_box{
+	width: .28rem;
+	height: .28rem;
+	float: left;
+}
+.shouhuo1 span{
+	font-size: .22rem;
+	line-height: .22rem;
+	float: left;
+	margin-left: .3rem;
+}
+.wode_tuijian{
+	border-top: .01rem solid #dedede;
+	background-color: #fff;
+}
+.wode_tuijian li{
+	width: 100%;
+	height: .72rem;
+	border-bottom: .01rem solid #dedede;
+	text-align: left;
+}
+.tuijian_left{
+	padding:0 .24rem;
+}
+.tuijian_right span{
+	font-size: .18rem;
+	line-height: .18rem;
+	color: #a4a4a4;
+}
+.tuijian_left{
+	float: left;
+}
+.tuijian_right{
+	float: right;
+    display: flex;
+    align-items: center;
+    margin-right: .24rem;
+}
